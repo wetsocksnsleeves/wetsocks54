@@ -2951,7 +2951,7 @@
 			)
 		)
 	)
-	(global_label "R_ROW_2"
+	(global_label "R_ROW_3"
 		(shape input)
 		(at 59.69 172.72 0)
 		(fields_autoplaced yes)
@@ -3699,7 +3699,7 @@
 			)
 		)
 	)
-	(global_label "R_ROW_3"
+	(global_label "R_ROW_2"
 		(shape input)
 		(at 59.69 161.29 0)
 		(fields_autoplaced yes)
